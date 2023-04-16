@@ -5,7 +5,7 @@ async function test() {
     const rs = await res.json();
     console.log(rs);
   } else {
-    console.log('not ok');
+    console.log('not oK');
   }
 }
 
